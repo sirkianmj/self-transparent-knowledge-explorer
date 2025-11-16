@@ -1,0 +1,31 @@
+tee -a .gitignore > /dev/null <<EOT
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual Environments
+venv/
+*/venv/
+
+# Database files
+*.db
+*.sqlite3
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.DS_Store
+
+# Build artifacts
+build/
+dist/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+notebooks/
+
+EOT
