@@ -1,0 +1,37 @@
+Archive of SID.ir
+Town & Country Planning
+Vol. 14, No. 2, Autumn & Winter 2022-2023
+Manuscript Type: Research Paper
+https://jtcp.ut.ac.ir/
+Print ISSN: 2008-7047
+Online ISSN: 2423-6268
+DOI: 10.22059/jtcp.2022.345470.670332
+Examining and Modeling the Changes in the Gardens
+Neighboring Lake Urmia During the Past Thirty Years
+Sayyad Asghari Sarasekanrood", Mohammad Ali Porfatali², Maryam Mohammadzadeh
+Shishehgaran
+1. Professor, Faculty of Social Sciences, University of Mohaghegh Ardabili, Iran
+2. MSc. Student, Faculty of Social Sciences, University of Mohaghegh Ardabili, Iran
+3. PhD Student, Faculty of Social Sciences, University of Mohaghegh Ardabili, Iran
+Abstract
+(Received: July 11, 2022; Accepted: September 19, 2022)
+This study aimed at evaluating the supervised pixel-based classification of the maximum likelihood in
+the examination of the climactic changes of the Urmia Lake catchment area in 1-, 6-, 10-, and 14-year
+spans and then evaluating and modeling the changes in the gardens neighboring Lake Urmia during a
+30-year span and its role in the changes at Lake Urmia water level. In this study, first the Landsat
+images of the years 1990, 2000, 2014, 2020, and 2021 were downloaded. Then, using the ENVI5.3
+software, a classification was made based on the maximum likelihood method. Next, the IDRISSI
+TERRSET software and CA-MARKOV model were used to model conditions for the year 2051. This
+model was then analyzed in the GIS software. It was found that the classification based on the
+maximum likelihood method has been an appropriate one. The results of this classification showed
+that overall, the maximum changes from 1990 to 2021 has been related to the irrigated gardens and
+fields. In this period, 3495 square kilometers have been added to these lands, i.e., the number has
+doubled. Modeling the 2051-year conditions in the light of the transition probability matrix showed
+that the maximum likelihood of land use changes is in the irrigated garden and farm use. On the other
+hand, the modeling in this study indicated that there has been a reduction in the expanse of irrigated
+gardens and fields as well as salt lands in the region. Finally, the model predicted an increase in water
+area in 2051.
+Keywords
+land cover, maximum likelihood algorithm, modeling, Ca-Markov, Urmia lake catchment area.
+*Corresponding Author, Email: s.asghari@uma.ac.ir
+Archive of SID.ir
